@@ -12,4 +12,14 @@ $ pip install tweepy
 
 4.   copy-paste all your details carefully.
 
-5.Run the code
+5. api_key = "xxxxx"
+   api_key_secret = "xxxxxx"
+   access_token = "xxxxx"
+   access_token_secret = "xxxxx"
+   
+   Enter the key in as show above
+   
+ 6. Now run the bot file
+
+ 
+
